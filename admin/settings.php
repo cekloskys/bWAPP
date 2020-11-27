@@ -17,10 +17,15 @@ bWAPP is licensed under a Creative Commons Attribution-NonCommercial-NoDerivativ
 */
 
 // Database connection settings
-$db_server = "localhost:3306";
+/* $db_server = "localhost:3306";
 $db_username = "root";
 $db_password = "";
-$db_name = "bWAPP";
+$db_name = "bWAPP"; */
+
+$db_server = "us-cdbr-east-02.cleardb.com";
+$db_username = "b2b571a79e61da";
+$db_password = "81810e94";
+$db_name = "heroku_e74e6f43a158fab";
 
 // SQLite database name
 $db_sqlite = "db/bwapp.sqlite";
