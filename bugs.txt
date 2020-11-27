@@ -1,0 +1,5 @@
+----------------------  bWAPP v2.2  -----------------------,portal.php
+SQL Injection (GET/Search),sqli_1.php
+SQL Injection (GET/Select),sqli_2.php
+SQL Injection (Login Form/Hero),sqli_3.php
+SQL Injection - Blind - Boolean-Based,sqli_4.php
